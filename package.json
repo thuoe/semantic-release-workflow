@@ -1,5 +1,5 @@
 {
-  "name": "semantic-release-workflow",
+  "name": "@thuoe/semantic-release-workflow",
   "version": "0.0.0-development",
   "description": "Testing releasing process",
   "homepage": "https://github.com/thuoe/semantic-release-workflow#readme",
@@ -20,5 +20,8 @@
   "devDependencies": {
     "jest": "^26.0.1",
     "semantic-release": "^17.0.8"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
