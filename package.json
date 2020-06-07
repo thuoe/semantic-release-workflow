@@ -1,0 +1,22 @@
+{
+  "name": "semantic-release-workflow",
+  "version": "0.0.1",
+  "description": "Testing releasing process",
+  "homepage": "https://github.com/thuoe/semantic-release-workflow#readme",
+  "bugs": {
+    "url": "https://github.com/thuoe/semantic-release-workflow/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thuoe/semantic-release-workflow.git"
+  },
+  "license": "MIT",
+  "author": "thuoeddie17@gmail.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
